@@ -1,0 +1,2 @@
+- aus [[Karak Thal]]
+- Verbindung mit Nekromantie

@@ -1,0 +1,16 @@
+
+- Die Gruppe, von [[Bogart]] zusammengestellt, erhält einen Auftrag von [[Zara]].
+- Der Auftrag besteht darin, eine verschollene Karawane zu finden und wenn möglich deren Ladung zu sichern.
+- Karawane verspätet
+- Aus [[Nohlau]] kommend, via Karawanserei
+- Besitzer der Karawanserei schickt die Gruppe in südöstliche Richtung, aus der die Karawane hätte ankommen müssen
+- *Wanderung durch den Wald...*
+- Überreste der Karawane gefunden
+- Überfall durch Wölfe überstanden, Wölfe getötet
+- 2 Fussspuren weggehend von Karawane gefunden
+- Fussspuren gefolgt, tote Karawaner gefunden und geplündert
+- Andere Fussspuren führen an einer Felswand entlang
+- [[Otis]] löst Falle aus, Überfall durch Banditen
+- Nach Ausschalten der Banditen Höhleneingang gefunden
+- Weitere Banditen in der Höhle ausgeschaltet...
+- *cut zu [[Episode 2]]*

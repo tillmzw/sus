@@ -1,0 +1,3 @@
+- [[Episode 4]]: 
+	- herrenlos, verängstigt
+	 - von [[Otis]] adoptiert

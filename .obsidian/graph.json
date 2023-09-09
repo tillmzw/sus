@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "-path:Episoden  ",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Episoden  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Orte  ",
+      "color": {
+        "a": 1,
+        "rgb": 10810537
+      }
+    },
+    {
+      "query": "path:Charaktere/NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "path:Charaktere/PC  ",
+      "color": {
+        "a": 1,
+        "rgb": 64000
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.00150146484375,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.507120768229167,
+  "repelStrength": 10.0276692708333,
+  "linkStrength": 1,
+  "linkDistance": 44,
+  "scale": 1.2900000159087335,
+  "close": true
+}

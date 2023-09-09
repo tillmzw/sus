@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "9e448aed060b953f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1225b059aca4cc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c258f8eee977c04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episoden/Episode 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c265dc02581b5e5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5994780890558cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e34708934c2d397f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d983382776b4690",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0adc749033be0af3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "2d9b978ec39488fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "53b37c57dba81a87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663c3ceda2cbef82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Episoden/Episode 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68cd2efc3485e1a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Episoden/Episode 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58d0fd896345e6a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49b93ff1443e6286",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Episoden/Episode 3.md"
+              }
+            }
+          },
+          {
+            "id": "195f39191cc5cf83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episoden/Episode  1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "publish:Änderungen veröffentlichen": false
+    }
+  },
+  "active": "c258f8eee977c04d",
+  "lastOpenFiles": [
+    "Episoden/Episode  1.md",
+    "Index.md",
+    "Episoden/Episode 6.md",
+    "Episoden/Episode 7.md",
+    "Episoden/Episode 8.md",
+    "Episoden/Episode 9.md",
+    "Episoden/Episode 2.md",
+    "Episoden/Episode 3.md",
+    "!Landil.png.md",
+    "Orte/Yrling.md",
+    "Orte/Wurx.md",
+    "Orte/Trottbach.md",
+    "Orte/Stranfeste.md",
+    "Orte/Nohlau.md",
+    "Orte/Lotehavn.md",
+    "Orte/Landil.png",
+    "Orte/Kettwil.md",
+    "Orte/Karak Thal.md",
+    "Orte/Kaldon.md",
+    "Orte/Hain der Ewigkeit.md",
+    "Orte/Fellwald.md",
+    "Orte/Fagos.md",
+    "Orte/Duven Osto.md",
+    "Orte/Dolgarn's Grab.md",
+    "Orte/Dimholz.md",
+    "Orte/Bruchwald.md",
+    "Orte/Bechfeld.md",
+    "Charaktere/PC",
+    "Charaktere/Gruppen",
+    "Charaktere/NPC",
+    "Orte/Orte Canvas.canvas",
+    "Episoden",
+    "Orte",
+    "Charaktere"
+  ]
+}

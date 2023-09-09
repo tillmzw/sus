@@ -1,0 +1,2 @@
+- blauhäutig
+- Vertreterin der Magiergilde

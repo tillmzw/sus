@@ -1,0 +1,3 @@
+- #Zwerg
+- [[Episode 6]]: Getötet von [[Durrn]]
+- [[Episode 7]]: Teil vom [[Klan Schildträger]]
