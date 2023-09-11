@@ -8,3 +8,7 @@
 - in einem Raum finden sich Notizen über den [[Schattenbaum]] und lebendige Pflanzen und ein Tagebuch von [[Krumnur]] mit Verbindungen zu [[Klan Sturmhammer]], [[Schattenbaum]] und dem vermissten reanimierten Kopf
 - Im südöstlichen Raum findet sich ein Riss hinter einer teilweise eingebrochenen Wand.
 - *cut zu [[Episode 9]]*
+
+# Karte
+
+![[Duven_Osto_lvl1.jpg]]

@@ -7,3 +7,6 @@
 	- hat eine Bibliothek
 	- gegründet von **Edward Stran**, nach Sieg gegen Untote & Vampire am Fluss in der Nähe (Ande) gegründet.
 
+## Karte
+
+![[Stranfeste.jpg]]

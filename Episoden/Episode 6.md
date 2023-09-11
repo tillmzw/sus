@@ -18,3 +18,7 @@
 - [[Grenl]] erklärt dass die Zwerge zu einem gefährlichen, dunkelhäutigen Elfen in den unteren Ebenen vordringen wollten, durch den Schacht im Thronraum. Dort unten findet sich der [[Schattenbaum]].
 - [[Meepo]] zeigt grösstes Misstrauen gegenüber [[Grenl]].
 - *cut zu [[Episode 7]]*
+
+# Karte
+
+![[Duven_Osto_lvl1.jpg]]

@@ -15,16 +15,20 @@
 - Nachricht an [[Inu]]: Tote Goblins & Kobolde, entkommener Drache, keine Spur vom Zwergenkopf, Treffen mit Koboldkönigin #telescroll
 - Abreise in Richtung Norden, und Goblins
 - Gruppe passiert verschlossene, schwere Drachentüren ( #POI #Drache )
-	- Drakonische Inschrift: "WIDERRUFT DIE TOTEN, ÖFFNET DEN WEG"
+	- #drakonisch  Inschrift: "WIDERRUFT DIE TOTEN, ÖFFNET DEN WEG"
 - Gruppe passiert Brunnen mit Drachenornamenten ( #POI #Drache )
-	- Drakonische Inschrift: "ES WERDE FEUER"
+	- #drakonisch  Inschrift: "ES WERDE FEUER"
 	- beim Vorlesen der Inschrift werden Lavaströme ausgelöst
 	- Gruppe füllt Flasche ab: *Potion of Fire Breath* geht an [[Osword]]
 - Gruppe geht weiter, findet Raum mit Gruben, toten Tieren und Humanoiden und weiterem Drachenbrunnen ( #POI #Drache )
-	- "ES WERDE TOT"
+	- #drakonisch : "ES WERDE TOT"
 - [[Meepo]] wartet aus Angst vor den Kerkern bei Tür Richtung Goblins
 - Angrenzender Kerker-Raum beherbergt weitere tote Kreaturen, inkl Zwergenleiche von [[Karakas Sturmhammer]]
 - *Kampf gegen Zombies und Skelett*
 - #telescroll Antwort von [[Inu]]: Zwergen verehrten einen Drachen namens Asharadon (ein chromatischer Drache) als ihren Schutzpatron
 - Gruppe kehrt zu [[Meepo]] zurück und lässt den [[Namenloser Hund]] in vermutlich sicherer Verwahrung in einer Kerkerzelle
 - *cut zu [[Episode 5]]*
+
+# Karte
+
+![[Duven_Osto_lvl1.jpg]]

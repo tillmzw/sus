@@ -1,5 +1,5 @@
 
-- Die Gruppe, von [[Bogart]] zusammengestellt, erhält einen Auftrag von [[Zara]].
+- Die Gruppe, von [[Bogart Waldfell]] zusammengestellt, erhält einen Auftrag von [[Zara]].
 - Der Auftrag besteht darin, eine verschollene Karawane zu finden und wenn möglich deren Ladung zu sichern.
 - Karawane verspätet
 - Aus [[Nohlau]] kommend, via Karawanserei

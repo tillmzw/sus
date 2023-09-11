@@ -1,8 +1,0 @@
-- Magier
-- edelmütig
-- trommelt Gruppe zusammen: 
-	- [[Bergelmir]]
-	- [[John Grammatikus]]
-	- [[Osword]]
-	- [[Otis]]
-- Kontakt zu [[Zara]]

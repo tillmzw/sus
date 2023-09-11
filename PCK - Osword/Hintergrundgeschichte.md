@@ -1,0 +1,9 @@
+- Osword trainierte als Teil einer wild zusammen gewürfelten Gruppe Ausgestossener
+- Mentor [[Charaktere/NPC/Ralf]] / [[PCK - Osword/Charaktere/Ralf|Ralf]]
+- [[Ralf]] fand alle Mitglieder dieser Gruppe als Ausgestossene, die sich vor der Gesellschaft aus allen möglichen Gründen versteckten und gab ihnen eine Berufung: stärker werden um sich selber und seine Nächsten verteidigen zu können.
+- Diese Gruppe wurde nach ein paar Monaten eine eingeschworene Gruppe Freunde, die die meiste Zeit zusammen verbrachte und ihren Mentor verehrte.
+- Nach einer Weile fragte die Gruppe den Mentor gegen was genau wir uns schützen sollen, da die Region um [[Fagos]] nicht als besonders gefährlich gilt - seine Antwort war ein einfaches "ihr werdet es bald genug herausfinden".
+- In den folgenden Wochen vermehrten sich die Gerüchte, dass Personen in der Region verschwinden.
+- Aus Angst um seine Familie zieht [[Osword]] in die Stadt [[Fagos]], sucht seine Familie und findet diese unbeschadet und ihr langweiliges Bauern-Leben lebend.
+- Auf dem Weg zurück sieht [[Osword]] Rauch aus dem Camp seiner Gruppe aufsteigen, im Camp sind alle verschwunden - nur eine schwer verletzte Mane (engl *mane*)  ist in der Mitte des Lagers zu finden. Bevor sie verschwindet, erfährt [[Osword]] nur, dass seine Gefährten alle entführt oder getötet wurden.
+- Mit diesem Wissen schwört [[Osword]] Rache und seine Freunde zu suchen und zu finden; aus diesem Zweck ist [[Osword]] auf der Suche nach Aufträgen die ihn irgendwie seinem Ziel näher bringen könnten.

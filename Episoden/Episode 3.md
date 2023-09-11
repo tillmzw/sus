@@ -1,13 +1,13 @@
 #longrest
 - (*Fortsetzung der Infos von [[Inu]] aus [[Episode 2]]*)
-- Reise Richtung Osten & [[Bruchwald]]
+- Reise Richtung Osten & [[Orte/Bruchwald]]
 - Volk vor dem Haus des Vogts in [[Stranfeste]] in Aufruhr, aber von der Gruppe ignoriert
 - *Verlassen von Stranfeste*
 - Beim Überqueren der Brücke über die Ande im Zollhaus:
 	- Halbierung des Wegzolls beim "Lösen eines Problems"
 	- Problem: Obdachlose Frau hat adligen Reisenden verletzt
 	- Obdachlose Frau von der Gruppe überzeugt, die Region zu verlassen, da ihr ansonsten Böses widerfährt (z.B. Rache des Adligen) 
-- *Ankunft in [[Bruchwald]]*
+- *Ankunft in [[Orte/Bruchwald]]*
 - Auskunft in Taverne: nach alten Ruinen gefragt, grobe Wegbeschreibung Richtung SO erhalten
 - Flussquerung SO mittels [[Otis]]-Floss
 - Überfall im Wald von lebendig gewordenen "Buschlingen"

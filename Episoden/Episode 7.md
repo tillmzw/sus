@@ -9,16 +9,20 @@
 - Gruppe ruht sich aus #shortrest
 - [[Erkie Timbers]] teilt Informationen über sich und seine Weggefährten [[Talgen Schildträger]] und [[Karakas Sturmhammer]]
 - Gruppe entscheidet sich den Trophäenraum (vermuteter Aufenthaltsort von [[Kalkryx]]) aufzusuchen und dem Auftrag von [[Yusdrayl]] nachzukommen
-- [[John Grammatikus]] bleibt währenddessen bei Goblins und versorgt diese soweit möglich ( #afk)
+- [[John Gramatikus]] bleibt währenddessen bei Goblins und versorgt diese soweit möglich ( #afk)
 - [[Kalkryx]] strahlt Überlegenheit aus und lässt sich auf Überzeugungsversuche (inkl. derer von [[Meepo]]) nicht ein und greift die Gruppe an.
 - [[Kalkryx]] tötet den verhandelnden [[Meepo]] auf der Stelle
 - [[Osword]] versetzt [[Kalkryx]] nach einem intensiven Kampf den Todesstoss.
 - Die Gruppe findet im Trophäenraum:
 	- 1 verstärkten Schild (@[[Osword]])
-	- 1 Streitkolben (für [[John Grammatikus]])
+	- 1 Streitkolben (für [[John Gramatikus]])
 	- 1 Dreizack (@[[Otis]])
-	- Schriftrollen (@[[Bogart]])
+	- Schriftrollen (@[[Bogart Waldfell]])
 	- 1 Talisman der Eule aus Jade (@[[Bergelmir]])
 - Die Gruppe kehrt zum Lager der Goblins zurück. 
 - #longrest 
 - *cut zu [[Episode 8]]*
+
+# Karte
+
+![[Duven_Osto_lvl1.jpg]]

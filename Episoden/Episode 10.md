@@ -7,10 +7,10 @@
 - [[Osword]] entdeckt eine komische Aura im Herzen des [[Schattenbaum]]s und entscheidet sich, auf diese Stelle zu schiessen. Die Gruppe schliesst sich an und zerschmettert so schliesslich das Herz des Baums.
 - Der [[Schattenbaum]] zerbröselt
 - [[Osword]] entnimmt der Leiche von [[Zimnu]] eine Sichel, Handarmbrust (7 Bolzen), eine Tasche mit Kräutern und Pflanzenteilen und einen spinnenförmigen Ring.
-- [[John Grammatikus]] sammelt das Gehirn-Wesen ein
+- [[John Gramatikus]] sammelt das Gehirn-Wesen ein
 - Aus den Überresten vom Schattenbaum steigt [[Gulthias]], bedankt sich bei der Gruppe und erfüllt jedem Mitglied einen Wunsch:
 	- [[Otis]] erhält 12 Platin
-	- [[John Grammatikus]] erhält das Versprechen dass die Gruppe in der Höhle ein sicheres Nachtlager aufschlagen kann
-	- [[Osword]] ersucht Informationen über einen verschollenen Weggefährten namens [[Ralf]]
+	- [[John Gramatikus]] erhält das Versprechen dass die Gruppe in der Höhle ein sicheres Nachtlager aufschlagen kann
+	- [[Osword]] ersucht Informationen über einen verschollenen Weggefährten namens [[Charaktere/NPC/Ralf]]
 	- [[Bergelmir]] fragt nach Hilfe bei den geschlossenen Drachentüren in [[Duven Osto]]
-	- [[Bogart]] fragt nach Magie und Macht und erhält einen Kristallfokus, gefüllt mit rotem Nebel
+	- [[Bogart Waldfell]] fragt nach Magie und Macht und erhält einen Kristallfokus, gefüllt mit rotem Nebel
