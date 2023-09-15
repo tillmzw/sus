@@ -4,3 +4,4 @@
 - auf der Fährte eines "bösen Zwerges" der mit einem Elfen zusammenarbeitet ([[Episode 8]]: [[Krumnur]] & [[Zimnu]])
 - [[Episode 7]]:
 	- führt Minen für den [[Klan Schildträger]] in [[Karak Thal]]
+- [[Episode 11]]: [[Osword]] verspricht Begleitung nach [[Karak Thal]] zur Beisetzung von [[Talgen Schildträger]]

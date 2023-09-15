@@ -1,1 +1,2 @@
 - beheimatet in [[Karak Thal]]
+- regierender Klan

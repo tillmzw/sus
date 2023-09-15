@@ -3,3 +3,4 @@
 	 - von [[Otis]] adoptiert
 	 - in einer Zelle hinterlassen, in der Hoffnung dass er dort sicher verbleiben kann
 	 - [[Otis]] nennt ihn "Dhoom se Machaana" (tortle für "Aufschrei"), kurz "Matschi"
+ - [[Episode 11]]: ☠

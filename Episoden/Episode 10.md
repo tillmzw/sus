@@ -14,3 +14,4 @@
 	- [[Osword]] ersucht Informationen über einen verschollenen Weggefährten namens [[Charaktere/NPC/Ralf]]
 	- [[Bergelmir]] fragt nach Hilfe bei den geschlossenen Drachentüren in [[Duven Osto]]
 	- [[Bogart Waldfell]] fragt nach Magie und Macht und erhält einen Kristallfokus, gefüllt mit rotem Nebel
+- *cut zu [[Episode 11]]*

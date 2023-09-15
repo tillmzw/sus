@@ -7,3 +7,4 @@
 	- [[Osword]]
 	- [[Otis]]
 - Kontakt zu [[Zara]]
+- hat einen Vertrauten (Fledermaus)
