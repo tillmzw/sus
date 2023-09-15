@@ -1,14 +1,14 @@
 - Weitere tote Goblins in Falle & verängstigten Hund gefunden
-- [[Namenloser Hund]] von [[Otis]] adoptiert, Gruppe folgt dem Hund
+- [[Matschi]] von [[Otis]] adoptiert, Gruppe folgt dem Hund
 - [[Osword]] entdeckt eine eindrückliche Tür mit Drachenornamenten in einem Seitengang  ( #POI #Drache )
 - Auf dem Weg  [[Vigur]] getroffen, welche uns zu [[Meepo]] schickt damit dieser die Gruppe zur Anführerin führen kann
 - [[Meepo]] schläft neben einem grossen aufgebrochenen Käfig und bringt uns ängstlich und aufgeregt zur Anführerin
-- [[Namenloser Hund]] kratzt derweil an einer anderen Tür
+- [[Matschi]] kratzt derweil an einer anderen Tür
 - Anführerin [[Yusdrayl]]:
 	- sitzt in einem Thronraum mit Drachenornamenten
 	- Drache namens [[Kalkryx]] vermisst, angeblich von Goblins gestohlen, Motivation unbekannt
 	- Zweige durchgereist in Richtung Goblins
-	- [[Namenloser Hund]] zu Zwergen gehörig
+	- [[Matschi]] zu Zwergen gehörig
 	- Belohnung beim Zurückbringen von [[Kalkryx]]
 	- Kobolde angeblich seit mehreren Monaten in [[Duven Osto]] niedergelassen
 	- [[Meepo]] als Begleitung: Verhandlungsmittel mit [[Kalkryx]] und kennt Fallen gegen Goblins
@@ -24,9 +24,9 @@
 	- #drakonisch : "ES WERDE TOT"
 - [[Meepo]] wartet aus Angst vor den Kerkern bei Tür Richtung Goblins
 - Angrenzender Kerker-Raum beherbergt weitere tote Kreaturen, inkl Zwergenleiche von [[Karakas Sturmhammer]]
-- *Kampf gegen Zombies und Skelett*
-- #telescroll Antwort von [[Inu]]: Zwergen verehrten einen Drachen namens Asharadon (ein chromatischer Drache) als ihren Schutzpatron
-- Gruppe kehrt zu [[Meepo]] zurück und lässt den [[Namenloser Hund]] in vermutlich sicherer Verwahrung in einer Kerkerzelle
+- *Kampf gegen Zombies und Skelett*, #Untot
+- #telescroll Antwort von [[Inu]]: Zwergen verehrten einen Drachen namens Asharadon (ein chromatischer #Drache) als ihren Schutzpatron
+- Gruppe kehrt zu [[Meepo]] zurück und lässt den [[Matschi]] in vermutlich sicherer Verwahrung in einer Kerkerzelle
 - *cut zu [[Episode 5]]*
 
 # Karte

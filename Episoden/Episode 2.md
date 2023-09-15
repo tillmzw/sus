@@ -14,4 +14,4 @@
 	- alte Legenden beschreiben [[Duven Osto]]
 	- fragt nach Infos über [[Duven Osto]], dessen Geschichte und Verbindung zur Magiergilde
 	- gibt der Gruppe eine Schriftrolle mit, mit deren Hilfe 1x pro Tag max. 25 Wörter hin und her geschickt werden können. #telescroll
-	- *cut zu [[Episode 3]]*
+- *cut zu [[Episode 3]]*

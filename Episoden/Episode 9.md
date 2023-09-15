@@ -10,7 +10,9 @@
 	 - [[Zimnu]]
 	 - [[Krumnur]]
 	 - zwei Goblins mit hölzernen Geschwüren
- - #fixme: Dialog mit Zimnu & Krumnur?
+ - [[Zimnu]] erklärt:
+	 - [[Schattenbaum]] soll in den [[Hain der Ewigkeit]] gebracht werden um diese zu korrumpieren, als Rache an den Elfen ( #Elf), welche die Dunkelelfen ( #Dunkelelf) aus ihrer Heimat vertrieben
+	 - von [[Vugan]] zum [[Schattenbaum]] geführt
  - *cut zu [[Episode 10]]*
 # Karte
 ![[Sunless Citadel grove level_player-1.jpg]]

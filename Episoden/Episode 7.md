@@ -1,5 +1,8 @@
 - [[Grenl]] erklärt der Gruppe im Thronraum, dass der Stamm der Durbuluk in einem sehr schlechten Zustand ist seit er von der Aussenwelt durch die Besetzung der Kobolde abgeschnitten wurde.
-- [[Osword]] knackt das Schloss unter dem Thron und findet einen Siegelring von [[Talgen Schildträger]], eine Schienenrüstung ( #fixme; vom [[Klan Schildträger]] für [[Erkie Timbers]]) und ein Drachenamulett 
+- [[Osword]] knackt das Schloss unter dem Thron und findet 
+	- einen Siegelring von [[Talgen Schildträger]], 
+	- einen Schuppenpanzer (Siegel vom [[Klan Schildträger]], für [[Erkie Timbers]]) 
+	 - ein Drachenamulett 
 - Die Gruppe folgt [[Grenl]] und lernt den Goblin-Stamm in einem riesigen angrenzenden Raum kennen: 
 	- ca 30 Goblins
 	- grösstenteils sehr junge und alte Goblins
