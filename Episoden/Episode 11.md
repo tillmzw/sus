@@ -15,7 +15,7 @@
 - Goblinlager abgebrochen, übersät mit toten, blutleeren Goblins. [[Grenl]] ist ebenfalls tot.
 - Gruppe sucht [[Matschi]] auf und findet diesen mit roher Gewalt enthauptet vor.
 - Bei der Drachentür erscheint [[Gulthias]] aus dem Nichts und öffnet die Tür für [[Bergelmir]]:
-	- [[Gulthias]] öffnet 4 Sarkophäge und 4 Skelettkrieger erscheinen und folgen ihm
+	- [[Gulthias]] öffnet 4 Sarkophäge und 4 Skelettkrieger (< #Skelett) erscheinen und folgen ihm
 	- Auf einem Altar aus Obsidian mit Drachenornamenten finden sich
 		- eine Kerze, die nicht auszugehen scheint; @[[Otis]]
 		- eine aus Knochen gefertigte Pfeife; @[[John Gramatikus]]
@@ -34,7 +34,7 @@
 	- [[Zara]] will den #Hirnfresser sofort und persönlich nach [[Lotehavn]] bringen.
 	- Die Gruppe erfährt, dass [[Gulthias]] von [[Edward Stran]] bezwungen wurde
 	- Die Gruppe vermutet, dass der [[Schattenbaum]] als Katalysator von [[Gulthias]] Kraft verwendet wurde
-	- [[Inu]] und [[Zara]] sind schockiert über die Befreiung von [[Gulthias]], politische Konsequenzen werden verheerend sein. Der **Vogt sollte schnellstmöglich unterricht werdet**.
+	- [[Inu]] und [[Zara]] sind schockiert über die Befreiung von [[Gulthias]], politische Konsequenzen werden verheerend sein. Der **Vogt ([[Siegfried Stran]]) sollte schnellstmöglich unterricht werdet**.
 	- Die vermutete Verbindung #Hirnfresser , [[Schattenbaum]] und [[Gulthias]] bleibt weiterhin mysteriös
 	- Gruppe übergib [[Zara]] den toten #Hirnfresser , welche sich unauffällig auf dem Seeweg Richtung [[Lotehavn]] aufmacht.
 	- [[Osword]] erfährt von [[Inu]], dass es nordöstlich von [[Karak Thal]] offene Lavaströme als Folge eines Vulkanausbruchs gibt

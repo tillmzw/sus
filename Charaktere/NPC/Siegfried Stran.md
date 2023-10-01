@@ -1,0 +1,4 @@
+- aktueller Vogt von [[Stranfeste]]
+- Nachfahr von [[Edward Stran]]
+- nicht als Krieger oder Diplomat bekannt
+- opulent gekleidet
