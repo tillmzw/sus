@@ -1,51 +1,39 @@
 site_name: Schatten über Stranfeste 
+repo_url: https://github.com/tillmzw/sus
+lang: de
 
 theme:
-    name: 'material'
-    palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      accent: deep-orange 
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+  name: 'material'
+  palette:
+  # Light mode
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: teal
+    accent: deep-orange 
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
 
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal
-      accent: deep-orange
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+  # Dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: teal
+    accent: deep-orange
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
 
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
-  - pymdownx.arithmatex:
-      generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - def_list
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-
   - toc:
-      permalink: true
+    permalink: true
 
 plugins:
   - search
@@ -55,8 +43,5 @@ plugins:
 
 
 extra_javascript:
-  - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
 
