@@ -1,4 +1,7 @@
-#Portal
+---
+tags:
+- Portal
+---
 
 - Portal erstmalig gefunden in [[Duven Osto]] / [[Episode 9]]
 	- dumpf grün-blau

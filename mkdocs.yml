@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Schatten über Stranfeste 
 
 theme:
     name: 'material'
@@ -50,6 +50,8 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  - tags
+  - awesome-pages
 
 
 extra_javascript:
