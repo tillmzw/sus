@@ -1,4 +1,8 @@
-#longrest
+---
+tags:
+- longrest
+---
+
 - (*Fortsetzung der Infos von [[Inu]] aus [[Episode 2]]*)
 - Reise Richtung Osten & [[Orte/Bruchwald]]
 - Volk vor dem Haus des Vogts in [[Stranfeste]] in Aufruhr, aber von der Gruppe ignoriert
@@ -15,7 +19,7 @@
 - Temperatur nimmt zu, Gruppe findet humanoide Fussspuren und weitere Ruinen
 - Abstieg in ein Loch mittels schmaler Rundtreppe.
 - Ankunft in [[Duven Osto]]: Überreste einer Mauer mit Wehrturm
-- Nachricht an [[Inu]]: *"Ankunft in Duven Osto"* #telescroll
+- Nachricht an [[Inu]]: *"Ankunft in Duven Osto"* (telescroll)
 - Ruine birgt tote Goblins & Kobolde
 - Übernachtung in den Überresten des Wehrturms
 - *cut zu [[Episode 4]]*

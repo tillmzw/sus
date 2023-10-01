@@ -1,3 +1,8 @@
+---
+tags:
+- Karte
+---
+
 # Schatten über Stranfeste
 
 ## Kampagnen-Episoden
@@ -13,7 +18,7 @@
 9. [[Episode 9]]
 10. [[Episode 10]]
 11. [[Episode 11]]
-12. [[Episode 11 Interlude]]
+12. [[Episode 12]]
 
 ## Landil
 

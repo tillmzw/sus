@@ -1,4 +1,8 @@
-- #Vampir
+---
+tags:
+- Vampir
+---
+
 - im [[Schattenbaum]] gefangen und von der Gruppe befreit
 - vor rund 400 Jahre erschlagen und im Baum gefangen gehalten worden
 - [[Episode 11]]: 

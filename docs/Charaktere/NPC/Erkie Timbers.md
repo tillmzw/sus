@@ -1,4 +1,8 @@
-- #Gnom
+---
+tags:
+- Gnom
+---
+
 - in [[Episode 6]] von Kobolden befreit
 - Weggefährte von [[Talgen Schildträger]] & [[Karakas Sturmhammer]]
 - auf der Fährte eines "bösen Zwerges" der mit einem Elfen zusammenarbeitet ([[Episode 8]]: [[Krumnur]] & [[Zimnu]])

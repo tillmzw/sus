@@ -1,2 +1,5 @@
-- #Firbolg
-- #Druide
+---
+tags:
+- Firbolg
+- Druide
+---

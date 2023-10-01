@@ -1,4 +1,8 @@
-- #Zwerg 
+---
+tags:
+- Zwerg
+---
+
 - ehem. Besitzer des [[Matschi]]
 - [[Episode 4]]: Leiche  gefunden
 - [[Episode 6]]: Identifiziert mit Hilfe von [[Erkie Timbers]]

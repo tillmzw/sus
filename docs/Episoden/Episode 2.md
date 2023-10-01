@@ -1,4 +1,11 @@
-#levelup #longrest 
+---
+tags:
+- levelup
+- longrest
+- telescroll
+- Karte
+---
+
 - Weitere Banditen in der Höhle ausgeschaltet
 - Banditenanführer (Augenklappe, langes Haar) öffnet im Tausch gegen sein Leben einen geheimen Raum
 - Interview mit Banditenanführer:
@@ -13,5 +20,9 @@
 - Interview mit Bibliothekarin [[Inu]]
 	- alte Legenden beschreiben [[Duven Osto]]
 	- fragt nach Infos über [[Duven Osto]], dessen Geschichte und Verbindung zur Magiergilde
-	- gibt der Gruppe eine Schriftrolle mit, mit deren Hilfe 1x pro Tag max. 25 Wörter hin und her geschickt werden können. #telescroll
+	- gibt der Gruppe eine Schriftrolle mit, mit deren Hilfe 1x pro Tag max. 25 Wörter hin und her geschickt werden können. (telescroll)
 - *cut zu [[Episode 3]]*
+
+# Karte
+
+![[Stranfeste.jpg]]

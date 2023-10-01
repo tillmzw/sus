@@ -1,5 +1,9 @@
-- #Mensch
-- #Magier
+---
+tags:
+- Mensch
+- Magier
+---
+
 - edelmütig
 - trommelt Gruppe zusammen: 
 	- [[Bergelmir]]

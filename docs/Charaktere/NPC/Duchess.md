@@ -1,2 +1,2 @@
 - Eselstute aus [[Stranfeste]]
-- in [[Episode 11 Interlude]] von [[John Gramatikus]] gekauft und mit einer Lederrüstung und Kiste ausgerüstet
+- in [[Episode 12]] von [[John Gramatikus]] gekauft und mit einer Lederrüstung und Kiste ausgerüstet

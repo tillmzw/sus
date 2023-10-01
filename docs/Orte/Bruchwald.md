@@ -1,4 +1,8 @@
-#Dorf #Karte
+---
+tags:
+- Dorf
+- Karte
+---
 
 - liegt am südlichen Rande eines Sumpfgebiets. 
 - Die wenigen Bewohner die es gibt leben vom Handel mit Torf, den sie im Sumpf abbauen.
@@ -6,7 +10,7 @@
 	- grösstenteils heruntergekommen & verlassen
 	- hat eine Taverne
 
-## Karte
+# Karte
 
 ![[Bruchwald.jpg]]
 

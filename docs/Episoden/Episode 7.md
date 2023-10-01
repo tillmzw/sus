@@ -1,3 +1,11 @@
+---
+tags:
+- shortrest
+- afk
+- longrest
+- Karte
+---
+
 - [[Grenl]] erklärt der Gruppe im Thronraum, dass der Stamm der Durbuluk in einem sehr schlechten Zustand ist seit er von der Aussenwelt durch die Besetzung der Kobolde abgeschnitten wurde.
 - [[Osword]] knackt das Schloss unter dem Thron und findet 
 	- einen Siegelring von [[Talgen Schildträger]], 
@@ -9,10 +17,10 @@
 	- hungerleidend
 - [[Osword]] teilt 3 seiner Rationen mit dem Stamm
 - [[Grenl]] sucht einen Weg aus den Ruinen heraus, kennt aber keinen Weg an den Kobolden vorbei
-- Gruppe ruht sich aus #shortrest
+- Gruppe ruht sich aus (*shortrest*)
 - [[Erkie Timbers]] teilt Informationen über sich und seine Weggefährten [[Talgen Schildträger]] und [[Karakas Sturmhammer]]
 - Gruppe entscheidet sich den Trophäenraum (vermuteter Aufenthaltsort von [[Kalkryx]]) aufzusuchen und dem Auftrag von [[Yusdrayl]] nachzukommen
-- [[John Gramatikus]] bleibt währenddessen bei Goblins und versorgt diese soweit möglich ( #afk)
+- [[John Gramatikus]] bleibt währenddessen bei Goblins und versorgt diese soweit möglich (afk)
 - [[Kalkryx]] strahlt Überlegenheit aus und lässt sich auf Überzeugungsversuche (inkl. derer von [[Meepo]]) nicht ein und greift die Gruppe an.
 - [[Kalkryx]] tötet den verhandelnden [[Meepo]] auf der Stelle
 - [[Osword]] versetzt [[Kalkryx]] nach einem intensiven Kampf den Todesstoss.
@@ -23,7 +31,7 @@
 	- Schriftrollen (@[[Bogart Waldfell]])
 	- 1 Talisman der Eule aus Jade (@[[Bergelmir]])
 - Die Gruppe kehrt zum Lager der Goblins zurück. 
-- #longrest 
+- *longrest*
 - *cut zu [[Episode 8]]*
 
 # Karte

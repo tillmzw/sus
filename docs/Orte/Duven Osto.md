@@ -1,3 +1,8 @@
+---
+tags:
+- Festung
+---
+
 - elfischer Name
 - zwergischer Name: **Yarleturkonzana**
 - versunkene Stadt

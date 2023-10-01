@@ -1,4 +1,9 @@
-#levelup
+---
+tags:
+- levelup
+- Karte
+---
+
 
 - Nach Kämpfe gegen Goblins und durch mehrere Fallen findet die Gruppe einen Lagerraum mit Fässern
 - stark von aussen verbarrikadierte Türen gefunden, [[Kalkryx]] dahinter vermutet
