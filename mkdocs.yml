@@ -33,7 +33,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - toc:
-    permalink: true
+      permalink: true
 
 plugins:
   - search
