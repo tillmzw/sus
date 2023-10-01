@@ -1,2 +1,0 @@
-- #Firbolg
-- #Druide

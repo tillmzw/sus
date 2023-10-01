@@ -1,0 +1,48 @@
+site_name: Schatten über Stranfeste 
+repo_url: https://github.com/tillmzw/sus
+edit_uri: edit/master/docs/
+
+theme:
+  name: material
+  language: de
+  palette:
+  # Light mode
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: teal
+    accent: deep-orange 
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+
+  # Dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: teal
+    accent: deep-orange
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - roamlinks 
+  - tags
+  - awesome-pages
+
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+

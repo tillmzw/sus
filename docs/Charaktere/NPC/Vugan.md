@@ -1,0 +1,2 @@
+- symbolisiert Licht und Hoffnung
+- versprach den Dunkelelfen Rache an den Elfen und führte sie darum zum [[Schattenbaum]]

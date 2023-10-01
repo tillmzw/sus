@@ -1,3 +1,0 @@
-- #Kobold
-- Schmiedin
-- in [[Duven Osto]]

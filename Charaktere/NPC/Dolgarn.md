@@ -1,3 +1,0 @@
-- #Zwerg 
-- letzter Zwergenkönig
-- verschwunden
