@@ -1,9 +1,9 @@
 site_name: Schatten über Stranfeste 
 repo_url: https://github.com/tillmzw/sus
-lang: de
 
 theme:
-  name: 'material'
+  name: material
+  language: de
   palette:
   # Light mode
   - media: "(prefers-color-scheme: light)"
