@@ -1,0 +1,2 @@
+- Elite-Wachen in [[Karak Thal]]
+- verehren Moradrim, den Gott der Zwerge und gehören keinem Klan ans

@@ -22,3 +22,4 @@ tags:
 	- elfische Bücher erwähnen Vampire erst nach dem Krieg der Elfen mit den Zwergen in [[Duven Osto]]
 - [[Osword]] sucht nach Informationen über [[Schattenfell]] in der Bibliothek und lernt dass diese Ebene immer wieder auf unerklärliche Weise mit der materiellen Ebene übereinkommt, obwohl sie sonst eine verzerrte und spiegelbildliche Abbildung ist.
 - Ausserdem lernt [[Osword]], dass Cambion  Dämonen oder Teufel sind, aus der Hölle stammen und Nachkommen von höllischen und humanoiden Wesen sind. Sie gelten als manipulierend und hinterlistig.
+- *cut zu [[Episode 13]]*

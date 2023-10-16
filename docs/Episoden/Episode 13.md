@@ -1,0 +1,33 @@
+---
+tags:
+  - afk
+  - longrest
+  - telescroll
+---
+- [[Erkie Timbers]] beschreibt zwei Wege nach [[Karak Thal]]:
+	- durch die Wüste, die bevorzugte Route
+	- oder über unsicherere Wege durch die Berge nördliche der Wüste
+	- die Gruppe entscheidet sich, durch die Wüste zu reisen.
+- [[Bogart Waldfell]] identifiziert:
+	- [[John Gramatikus]]' Knochenpfeife als *Pfeife der Rauchmonster*
+	- [[Osword]]s Spinnenring als nicht-magisch, aber erkennt diesen als eine Art Katalysator für ein Wesen im Zusammenhang mit der Spinnenkönigin der Dunkelelfen, [[Loth]]
+	- [[Osword]]s Drachenstatue ebenfalls als nicht-magisch, aber potenziell als Handelsgut wertvoll
+- Die Gruppe übernachtet erneut in [[Stranfeste]] vor der Abreise Richtung Ost-Südosten
+- Auf dem Weg trifft die Gruppe den gestaltgewandelten [[Bergelmir]] in Form eines Schattenwolfs.
+- Vor dem Aufschlagen des Nachtlagers in der Wüste eilt die Gruppe einer anderen Abenteurergruppe auf einer Düne in der Nähe zur Hilfe
+	- [[John Gramatikus]] heilt den übel zugerichteten Krieger der Gruppe
+	- wurden angegriffen von einem offensichtlich mächten Wesen in einer nahegelegenen Tempel-Ruine
+	- Tempel von einer sagenumwobenen, alten Zivilisation
+	- [[Bogart Waldfell]] erhält als Dank eine Karte mit dem Ort der [[Tempelruine]]
+	- Die Abenteurer berichten auf Nachfrage von einem erhöhten Karawanen-Aufkommen Richtung [[Fagos]], mit Waffen für [[Kaldon]] beladen.
+- Die Gruppen übernachten zusammen und werden morgens von einem heulenden Wind und Nebel überrascht; anscheinend ein natürliches Phänomen in der Wüste
+- andere Abenteurergruppe wird informiert, dass sie via [[Inu]] oder dem Vogt [[Siegfried Stran]] Kontakt mit [[Bogart Waldfell]] aufnehmen können; danach reisen sie Richtung Osten zurück.
+- Auf dem weiteren Weg nach [[Karak Thal]] trifft die Gruppe mehrere prall mit Waffen gefüllte Karawanen, die ebenfalls durch [[Erkie Timbers]] bestätigt, Richtung [[Kaldon]] reisen.
+- [[Erkie Timbers]] erzählt von seinen Werdegang
+- [[Erkie Timbers]] beschreibt [[Karak Thal]] 
+	- das Schildträger-Oberhaupt gilt als *Beschützer des Reiches*; **zur Anerkennung als König fehlt der Hammer des letzten Königs** [[Dolgarn]], verloren seit der Schlacht um [[Duven Osto]]
+- Bei Ankunft in der massiven Vorburg von [[Karak Thal]] lässt die Gruppe [[Duchess]] in den Ställen zurück
+- telescroll: "Ankunft in [[Karak Thal]], Neuigkeiten von [[Zara]]?"
+- [[Bergelmir]] erkundet die Stadt in der Form einer Katze
+- [[Osword]], [[Bogart Waldfell]] und [[John Gramatikus]] betreten die lokale Arena und verpflichten sich zum Kampf über Leben und Tod gegen einen Oger und wetten jeweils 100G, 25G und 50G auf ihren eigenen Gewinn.
+- *cut zu [[Episode 14]]*

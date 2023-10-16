@@ -1,0 +1,2 @@
+- Ruine einer alten Zivilisation in der Wüste westlich von [[Karak Thal]]
+- von einem furchteinflössenden Monster bewohnt
