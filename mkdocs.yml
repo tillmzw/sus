@@ -5,6 +5,7 @@ edit_uri: edit/master/docs/
 theme:
   name: material
   language: de
+  custom_dir: overrides
   palette:
   # Light mode
   - media: "(prefers-color-scheme: light)"
@@ -39,10 +40,11 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
-  - tags
   - awesome-pages
+  - tags
+  - mkdocs-backlinks:
+      ignored_pages: ['index' ]
 
 
-extra_javascript:
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-
+extra_css:
+  - .stylesheets/extra.css

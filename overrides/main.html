@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+
+{{ super() }}
+
+{% if backlinks %}
+<hr />
+<h4>Backlinks</h4>
+<div id="backlinks">
+    {% for backlink in backlinks %}
+    <div class="backlink-item">
+		<a href="{{ backlink.url }}">{{ backlink.title }}</a>
+	</div>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% endblock content %}
+
+
