@@ -15,6 +15,10 @@ tags:
 - Im südöstlichen Raum findet sich ein Riss hinter einer teilweise eingebrochenen Wand.
 - *cut zu [[Episode 9]]*
 
+## Krumnur's Notizen
+
+![[Krumnurs_Tagebuch.jpg]]
+
 # Karte
 
 ![[Duven_Osto_lvl1.jpg]]

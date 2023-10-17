@@ -18,7 +18,7 @@ tags:
 - Portal, welches von [[Osword]] untersucht wurde ([[Episode 9]]), ist nun offen; [[Bogart Waldfell]] schickt seinen Vertrauten und [[Bergelmir]] streckt seinen Kopf durch: auf der anderen Seite findet sich eine gespiegelte und verzerrte Version [[Duven Osto]]s. Die Gruppe folgt dem Ratschlag Gulthias' die Ebene nicht zu betreten, und wendet sich zurück.
 - Gruppe untersucht Räume auf dieser Ebene erneut
 	- alle Goblins sind befreit worden und spurlos verschwunden
-	- im Raum mit Krumnu's Notizen finden sich Steintafeln mit Beschreibungen der Grabstätte des letzten Zwergenkönigs und verkohlte Überreste, vermutlich von der Kiste der [[Magiergilde]].
+	- im Raum mit Krumnu's Notizen finden sich Steintafeln mit Beschreibungen der Grabstätte des letzten Zwergenkönigs [[Dolgarn]] (siehe [[Dolgarn's Grab]]) und verkohlte Überreste, vermutlich von der Kiste der [[Magiergilde]].
 	- [[Erkie Timbers]] erzählt der Gruppe von Schauermärchen, die dem Gehirn-Wesen ähnliche Abscheulichkeiten beschreiben; diese auch als #Hirnfresser bekannten Wesen nisten sich in Köpfe ein.
 	- Die Gruppe schlussfolgert, dass der Hirnfresser  tatsächlich der gesuchte Kopf ([[reanimierter Kopf]]) ist.
 - telescroll: "Dunkelelfen gefunden und getötet; Zwerg mit Hirnfresser gefunden, = reanimierter Kopf? Schattenbaum in Asche gelegt. Vampir und Portal und Duven Osto. Danke für Rückmeldung."
@@ -52,3 +52,4 @@ tags:
 - Gruppe trifft sich in der Taverne und lässt den Tag mit viel Bier ausklingen.
 - *longrest*
 - *cut zu [[Episode 12]]*
+
