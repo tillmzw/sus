@@ -45,6 +45,3 @@ plugins:
   - mkdocs-backlinks:
       ignored_pages: ['index' ]
 
-
-extra_css:
-  - .stylesheets/extra.css

@@ -7,6 +7,25 @@
 
 {% if backlinks %}
 <hr />
+<style>
+#backlinks {
+	display: flex;
+	flex-flow: row wrap;
+	align-content: flex-start;
+}
+
+#backlinks .backlink-item {
+	font-size: smaller;
+	margin: 0.5em 1em;
+	padding: 0.5em;
+	border: 2px solid lightgray;
+	border-radius: 5px;
+}
+
+#backlinks .backlink-item::before {
+	content: "🔗 ";
+}
+</style>
 <h4>Backlinks</h4>
 <div id="backlinks">
     {% for backlink in backlinks %}
