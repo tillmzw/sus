@@ -10,7 +10,7 @@ tags:
 	- die Gruppe entscheidet sich, durch die Wüste zu reisen.
 - [[Bogart Waldfell]] identifiziert:
 	- [[John Gramatikus]]' Knochenpfeife als *Pfeife der Rauchmonster*
-	- [[Osword]]s Spinnenring als nicht-magisch, aber erkennt diesen als eine Art Katalysator für ein Wesen im Zusammenhang mit der Spinnenkönigin der Dunkelelfen, [[Loth]]
+	- [[Osword]]s Spinnenring als nicht-magisch, aber erkennt diesen als eine Art Katalysator für ein Wesen im Zusammenhang mit der Spinnenkönigin der Dunkelelfen, [[Lolth]]
 	- [[Osword]]s Drachenstatue ebenfalls als nicht-magisch, aber potenziell als Handelsgut wertvoll
 - Die Gruppe übernachtet erneut in [[Stranfeste]] vor der Abreise Richtung Ost-Südosten
 - Auf dem Weg trifft die Gruppe den gestaltgewandelten [[Bergelmir]] in Form eines Schattenwolfs.
