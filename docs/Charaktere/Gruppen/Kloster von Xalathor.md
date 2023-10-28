@@ -1,0 +1,2 @@
+- Mitglieder verehren Handwerk
+- Altare in Form eines Ambosses

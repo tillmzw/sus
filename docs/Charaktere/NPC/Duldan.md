@@ -1,0 +1,3 @@
+- Sohn von Rotnik
+- Schichtaufsicht in der Kanalisation von [[Karak Thal]]; arbeitete für [[Klan Sturmhammer]]
+- erstes Opfer der [[Illithiden]] (via Intellektverzehrer)

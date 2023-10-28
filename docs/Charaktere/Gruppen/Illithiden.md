@@ -1,0 +1,4 @@
+- üblicherweise im [[Underdark]] anzutreffen
+- treten sehr selten in Erscheinung
+- als Gefahr für humanoide Zivilisationen angesehen
+- Erschöpfer der Intellektverzehrer
