@@ -1,0 +1,14 @@
+- [[Otis]] gefangen genommen, trotz Ausflüchten wird er auf die Wache gebracht. Dort wird er zur Bestrafung in die Kanalisation geworfen und der Eingang hinter ihm verschlossen.
+- Der Rest der Gruppe sucht in Rrinkvart weiter nach einem Kanalisations-Eingang und findet ein von zwei Stadtwachen bewachten Haus
+- [[John Gramatikus]] erklärt die Suche nach der Kanalisation: die Untersuchung des Todes des Aufsehers, [[Duldan]]. 
+- Die Wachen warnen vor der sehr alten Kanalisation, üblicherweise wird sie nur zwecks Wartung betreten.
+- Die Gruppe trägt sich ins Gästebuch *Rrinkvart Nord* ein und betritt die Kanalisation. Die Wachen schliessen den Eingang hinter ihnen.
+- Nach einem Abstieg rund 50ft in die Tiefe finden sich [[Otis]] und, separat, der Rest der Gruppe in der Kanalisation.
+- [[Bogart Waldfell]] bestimmt mit einem Zauberspruch die Richtung von [[Otis]]' magischer Kerze. Die Gruppe und [[Otis]] nähern sich.
+- Auf dem Weg zueinander fallen Ratten auf, die eine durchsichtige Schädeldecke und ein leuchtendes Gehirn darunter haben. Diese scheuen die Personen; [[Bergelmir]] kann jedoch unbemerkt eine Ratte einfangen und hört einen telepathischen Hilferuf.
+- Nachdem [[Otis]] wieder zum Rest der Gruppe gefunden hat, werden alle von einem **Roper** überrascht. Obwohl schlussendlich getötet, fügt er [[Osword]] schweren Schaden zu.B
+- Diesen treffen sie in einem abgetrennten Raum, und er äussert seine Dankbarkeit über das Beseitigen des Ropers und gibt [[Bogart Waldfell]] ein Zertifikat, welches an der Oberfläche angeblich gegen eine Belohnen eingelöst werden kann.
+- Der Chef-Ingenieur verrät, das bei den Minen - wo die Gruppe die Ursache des Überfalls auf [[Duldan]] vermutet - eine Verstopfung bekannt ist.
+- Der Grossteil der Gruppe wird nach und nach bezaubert von, wie sich herausstellt, dem Chef-Ingenieur; [[Bergelmir]] und [[Bogart Waldfell]] werden einiger ihrer Erinnerungen beraubt. Einzig [[Osword]] widersteht dem Einfluss, schlägt den Chef-Ingenieur mit letzter Kraft zurück. Währenddessen sieht die Gruppe hilflos zu, da sie keine Bedrohung verspüren.
+- Der Chef-Ingenieur verwandelt sich in eine schleimige Masse und schafft es durch Rohre in dem Wartungsraum zu entkommen.
+- *cut zu [[Episode 16]]*

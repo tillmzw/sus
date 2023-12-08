@@ -53,3 +53,5 @@ tags:
 - [[Otis]] sucht einen Eingang in die Kanalisation und schwimmt dazu flussaufwärts durch [[Karak Thal]] Richtung Dur Dwarkar. Er wird dabei von Wachen entdeckt, aus dem Wasser gezwungen und abgeführt.
 - Der Rest der Gruppe hört in der Zwischenzeit von mehreren Eingängen in die Kanalisation in Rrinkvart, aber der Ort von [[Duldan]]'s Begegnung mit dem Intellektverzehrer bleibt unbekannt
 - [[Osword]] trifft ehemaligen Gefährten, [[Rilon]], welcher auf den Strassen von Rrinkvart betteln muss. [[Rilon]] berichtet von der Verfolgung der Dämonen und dem Versuch, [[Ralf]] zu befreien - was gescheitert ist. Dabei ist ein anderer Kompagnon getötet worden und der dritte vermutlich gefangen genommen worden. [[Rilon]] verlor zwar seinen Arm, kennt aber das Lager der Dämonen, die [[Ralf]] verschleppten. [[Osword]] verspricht [[Rilon]], ihn später in der Taverne zu treffen.
+
+*cut zu [[Episode 15]]*
