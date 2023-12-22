@@ -9,7 +9,7 @@ tags:
 	- Handaxt (für [[Osword]])
 	- vier Kleidersets, darunter eines welches von Nobilität getragen wird (von [[Otis]] getragen),
 	- ledrige Armschienen (*Bracers of Archery*; für [[Osword]]),
-	- ein Zwergenschädel (mit 2 kleinen Löchern in der Schädeldecke)
+	- ein Zwergenschädel (mit 2 kleinen Löchern in der Schädeldecke; von [[John Gramatikus]] getragen)
 	- und ein Amulett (*Periapt of Wound Closure*; für [[Bogart Waldfell]])
 - Die Gruppe versucht dem Rohr, durch das das Schleimwesen geflohen ist, zu verfolgen, in dem [[John Gramatikus]] an das Rohr schlägt; die Spur verläuft sich aber nach ein paar Hundert Fuss.
 - Auf der Suche nach dem klingenden Rohr trifft die Gruppe erneut auf die Ratten; John spricht mit ihnen und findet heraus, dass sie [[Vugan]] gehorchen. Die Ratten wollen oder können aber keine weiteren nützlichen Infos preisgeben.
