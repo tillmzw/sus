@@ -1,2 +1,3 @@
 - symbolisiert Licht und Hoffnung
 - versprach den Dunkelelfen Rache an den Elfen und führte sie darum zum [[Schattenbaum]]
+- scheint telepathische Verbindung zu Lebewesen in der Kanalisation unter [[Karak Thal]] zu haben
