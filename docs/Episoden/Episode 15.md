@@ -8,7 +8,7 @@
 - Auf dem Weg zueinander fallen Ratten auf, die eine durchsichtige Schädeldecke und ein leuchtendes Gehirn darunter haben. Diese scheuen die Personen; [[Bergelmir]] kann jedoch unbemerkt eine Ratte einfangen und hört einen telepathischen Hilferuf.
 - Nachdem [[Otis]] wieder zum Rest der Gruppe gefunden hat, werden alle von einem **Roper** überrascht. Obwohl schlussendlich getötet, fügt er [[Osword]] schweren Schaden zu.B
 - Diesen treffen sie in einem abgetrennten Raum, und er äussert seine Dankbarkeit über das Beseitigen des Ropers und gibt [[Bogart Waldfell]] ein Zertifikat, welches an der Oberfläche angeblich gegen eine Belohnen eingelöst werden kann.
-- Der Chef-Ingenieur verrät, das bei den Minen - wo die Gruppe die Ursache des Überfalls auf [[Duldan]] vermutet - eine Verstopfung bekannt ist.
+- Der Chef-Ingenieur (ref. [[Grum]]) verrät, das bei den Minen - wo die Gruppe die Ursache des Überfalls auf [[Duldan]] vermutet - eine Verstopfung bekannt ist.
 - Der Grossteil der Gruppe wird nach und nach bezaubert von, wie sich herausstellt, dem Chef-Ingenieur; [[Bergelmir]] und [[Bogart Waldfell]] werden einiger ihrer Erinnerungen beraubt. Einzig [[Osword]] widersteht dem Einfluss, schlägt den Chef-Ingenieur mit letzter Kraft zurück. Währenddessen sieht die Gruppe hilflos zu, da sie keine Bedrohung verspüren.
 - Der Chef-Ingenieur verwandelt sich in eine schleimige Masse und schafft es durch Rohre in dem Wartungsraum zu entkommen.
 - *cut zu [[Episode 16]]*

@@ -1,0 +1,24 @@
+---
+tags:
+  - telescroll
+  - afk
+  - longrest
+---
+- Gruppe untersucht die Kanalisation weiter
+- In einer Zisterne wird die Gruppe aus einem dunklen Korridor von einem Zwergentrupp beschossen
+- Aus entgegengesetzter Richtung stürmt ein Spinnenwesen mit einem menschlichen Körper der Gruppe entgegen
+- Gruppe versucht zu fliehen, wird von den beiden Parteien vereint verfolgt
+- Das Spinnenwesen schafft es einzig [[Osword]] auszuschalten, die Gruppe schafft es aber trotzdem komplett durch den Kanalisationseingang in Rrinkvart zu entkommen.
+- Die dort stationierten Wachen berichten auf Nachfrage, dass der lokale Chef-Ingenieur namens [[Grum]] nicht vermisst gemeldet wurde, da dieser (wie üblich) für 6 Monaten in der Kanalisation stationiert wurde und noch 2 Monate des Dienstes übrig hat.
+- Die Gruppe kehrt in die Taverne zurück
+- [[Osword]] trifft sich mit [[Rilon]], der sich gut und viel versorgt hat und von seinem Leben schwafelt; [[Osword]] verschiebt weitere Gespräche auf den folgenden Tag.
+- *longrest*
+- [[John Gramatikus]] träumt erneut von einer Dämoneninvasion
+- [[Osword]] hinterlässt [[Rilon]] eine Nachricht als die Gruppe am nächsten Morgen früh aufbricht.
+- [[Bogart Waldfell]]  wird zum Schatzmeister in Baor Gevorgun (dem Hauptquartier der Stadtwache) verwiesen um das Arbeitszertifikat (welches von "[[Grum]]" ausgehändigt wurde) einzulösen. Dieser belohnt die Gruppe mit 400 Goldstücken.
+- [[Erkie Timbers]] getroffen; er beschreibt ein geheimes Treffen ([[Questlog#Geheimes Treffen 🔛]]), das die Gruppe in 3 Tagen überwachen soll.
+- Gruppe versucht [[Erkie Timbers]] über die Gefahr in der Kanalisation zu warnen (Wandmalerein, Schädel) , dieser verlangt aber handfeste Beweise um politisch aktiv werden zu können
+- [[Erkie Timbers]] verweist die Gruppe auf Ortskundige der Kanalisation:
+	- Unter Dunkvart findet sich eine geheime Taverne mit zwielichtigen Gestalten
+	- Eingang über die Rostige Klinge: Beim Wirt Einlauf bestellen, und diese als "ausgezeichnet" ihm gegenüber beschreiben.
+- *cut zu [[Episode 18]]*

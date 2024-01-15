@@ -2,7 +2,7 @@
 tags:
   - telescroll
 ---
-- In dem Raum wo sich zuvor das Wesen, welches sich als Chef-Ingenieur ausgab, aufgehalten hat, durchsucht [[Bogart Waldfell]] das Lager. Im Raum finden sich
+- In dem Raum wo sich zuvor das Wesen, welches sich als Chef-Ingenieur (ref. [[Grum]]) ausgab, aufgehalten hat, durchsucht [[Bogart Waldfell]] das Lager. Im Raum finden sich
 	- ein lang unbenutztes Bett,
 	- Würfel,
 	- Armbänder,

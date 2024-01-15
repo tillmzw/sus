@@ -76,7 +76,7 @@
 | Ende         | | |
 
 
-## Gedankenkontrolle
+## Gedankenkontrolle 🔛
 
 |              |   |   |
 |--------------|---|---|
@@ -99,57 +99,12 @@
 
 
 
+## Geheimes Treffen 🔜
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|              |   |   |
+|--------------|---|---|
+| Auftraggeber | [[Erkie Timbers]] | Zufallsbegegnung [[Episode 17]] |
+| Auftrag      | Beschattet das geheime Treffen zw. [[Gornir Sturmhammer]] und unbekannten Dritten im könglichen Badehaus | |
+| Belohnung    |  | |
+| Ereignis     |  | |
+| Ende         |  |  |
