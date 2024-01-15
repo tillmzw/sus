@@ -20,5 +20,5 @@ tags:
 - Gruppe versucht [[Erkie Timbers]] über die Gefahr in der Kanalisation zu warnen (Wandmalerein, Schädel) , dieser verlangt aber handfeste Beweise um politisch aktiv werden zu können
 - [[Erkie Timbers]] verweist die Gruppe auf Ortskundige der Kanalisation:
 	- Unter Dunkvart findet sich eine geheime Taverne mit zwielichtigen Gestalten
-	- Eingang über die Rostige Klinge: Beim Wirt Einlauf bestellen, und diese als "ausgezeichnet" ihm gegenüber beschreiben.
+	- Eingang über die Rostige Klinge: Beim Wirt Eintopf bestellen, und diese als "ausgezeichnet" ihm gegenüber beschreiben.
 - *cut zu [[Episode 18]]*
