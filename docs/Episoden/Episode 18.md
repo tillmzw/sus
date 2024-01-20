@@ -18,6 +18,7 @@ tags:
 - Während der Nachtruhe wird die Karawane von hyänen-artigen Monstrositäten[^2] überfallen.
 	- Anführer, eine Art Schamane, spricht abyssisch
 	- Ziel war offensichtlich, den ersten Wagen zu stehlen
+    - Anführer ordert Rückzug, will später erneut angreifen
 	- [[Waldfell & Co. Escort Service]] schafft es zusammen mit den anwesenden Wachen, die meisten Angreifer zu töten und versengt dabei zwei Wagen. [[Bogart Waldfell]] und [[John Gramatikus]] schaffen es, die Wagen mit leichtem Schaden zu löschen.
 	- [[Osword]] stellt dem fliehenden Schamanen nach und schafft es knapp mit all seiner Kraft diesen rücklings zu erschiessen, und bewegt sich dabei weit von der Gruppe weg. 
 - *cut zu [[Episode 19]]*
