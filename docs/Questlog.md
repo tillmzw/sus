@@ -78,13 +78,15 @@
 
 ## Gedankenkontrolle 🔛
 
-|              |   |   |
-|--------------|---|---|
+|  |  |  |
+| ---- | ---- | ---- |
 | Auftraggeber | [[Zara]] |  |
-| Auftrag      | Verhindert eine Invasion der [[Illithiden]] | |
-| Belohnung    | ? | |
-| Ereignis     | [[Zara]] vermutet [[Illithiden]]-Einflüsse in [[Karak Thal]] | [[Episode 14]] |
-| Ende         |  |  |
+| Auftrag | Verhindert eine Invasion der [[Illithiden]] |  |
+| Belohnung | ? |  |
+| Ereignis | [[Zara]] vermutet [[Illithiden]]-Einflüsse in [[Karak Thal]] | [[Episode 14]] |
+| Ereignis | Gruppe wird in der Kanalisation unter [[Karak Thal]] in die Flucht geschlagen | [[Episode 17]] |
+| Ereignis | Gruppe sucht Hilfe im Untergrund bei [[Mederta Steinherz]] zur Navigation der Kanalisation. | [[Episode 18]] |
+| Ende |  |  |
 
 
 ## Grenzkonflikte
@@ -106,5 +108,5 @@
 | Auftraggeber | [[Erkie Timbers]] | Zufallsbegegnung [[Episode 17]] |
 | Auftrag      | Beschattet das geheime Treffen zw. [[Gornir Sturmhammer]] und unbekannten Dritten im königlichen Badehaus | |
 | Belohnung    |  | |
-| Ereignis     |  | |
+| Ereignis     | Gruppe informiert [[Erkie Timbers]], dass er selber die Beschattung organisieren soll, da er die besseren Mittel dazu hat | [[Episode 18]] |
 | Ende         |  |  |
