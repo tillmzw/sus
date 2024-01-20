@@ -16,7 +16,7 @@ tags:
 - [[John Gramatikus]] träumt erneut von einer Dämoneninvasion
 - [[Osword]] hinterlässt [[Rilon]] eine Nachricht als die Gruppe am nächsten Morgen früh aufbricht.
 - [[Bogart Waldfell]]  wird zum Schatzmeister in Baor Gevorgun (dem Hauptquartier der Stadtwache) verwiesen um das Arbeitszertifikat (welches von "[[Grum]]" ausgehändigt wurde) einzulösen. Dieser belohnt die Gruppe mit 400 Goldstücken.
-- [[Erkie Timbers]] getroffen; er beschreibt ein geheimes Treffen ([[Questlog#Geheimes Treffen 🔜]]), das die Gruppe in 3 Tagen überwachen soll.
+- [[Erkie Timbers]] getroffen; er beschreibt ein geheimes Treffen ([[Questlog#Geheimes Treffen]]), das die Gruppe in 3 Tagen überwachen soll.
 - Gruppe versucht [[Erkie Timbers]] über die Gefahr in der Kanalisation zu warnen (Wandmalerein, Schädel) , dieser verlangt aber handfeste Beweise um politisch aktiv werden zu können
 - [[Erkie Timbers]] verweist die Gruppe auf Ortskundige der Kanalisation:
 	- Unter Dunkvart findet sich eine geheime Taverne mit zwielichtigen Gestalten
