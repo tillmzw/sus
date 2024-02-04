@@ -5,6 +5,9 @@ tags:
 
 # Schatten über Stranfeste
 
+[![[waldfell and co.jpeg]]](Charaktere/Gruppen/Waldfell %26 Co. Escort Service)
+
+
 ## Kampagnen-Episoden
 
 1. [[Episode 1]]
