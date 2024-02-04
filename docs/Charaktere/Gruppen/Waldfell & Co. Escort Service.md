@@ -1,3 +1,7 @@
+![[waldfell and co.jpeg]]
+
+---
+ 
 - Besteht aus: 
 	- [[Bogart Waldfell]]
 	- [[John Gramatikus]]
