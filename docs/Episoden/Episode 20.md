@@ -22,5 +22,5 @@ tags:
 - Der anscheinend verzauberte [[Orwell]] tötet sich selber mit einem Messer in diesem Moment.
 - Die einzige Person der Karawane, die noch lebt ist der Kutscher Ashton, der anscheinend zurück Richtung [[Karak Thal]] geflohen ist.
 - [[John Gramatikus]] drängt die Gruppe sofort nach [[Wurx]] zu reisen.
-- Nach ein paar weiteren Stunden Reisezeit erreicht die Gruppe mit allen Wagen und 6 von 20 Metallkisten [[Wurx]].
+- Nach ein paar weiteren Stunden Reisezeit erreicht die Gruppe mit allen Wagen und 14 von 20 Metallkisten [[Wurx]].
 - *cut zu [[Episode 21]]*
