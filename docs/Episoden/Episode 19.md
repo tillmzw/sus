@@ -6,4 +6,4 @@
 ![[canyon.jpg]]
 - Die Gruppe überfällt die lauernden Gnolle und tötet sie schlussendlich.
 - Die Gnoll-Gruppe hat einen Humanoiden bei sich, vermutlich einen Gefangenen; er trägt ein ähnliches Tattoo wie die vorherigen Gnolle.
-- *[[cut zu Episode 20]]*
+- *cut zu [[Episode 20]]*
