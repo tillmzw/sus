@@ -1,4 +1,4 @@
-- [[Osword]] verfolgt den sterbenden Schamanen, der warnt: "Valkia wird euch finden"
+- [[Osword]] verfolgt den sterbenden Schamanen, der warnt: "[[Valkia]] wird euch finden"
 - [[John Gramatikus]] inspiziert heimlich die Ladung und findet Metalle, vermutlich von besonderer Natur.
 - An den Leichen findet die Gruppe Lederfetzen, die zusammengesetzt eine Karte und einen abyssischen Text zeigen.
 - Die Karawane setzt sich wieder in Bewegung und findet weitere Spuren, die sich in die gleiche Richtung bewegen.
