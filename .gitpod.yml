@@ -5,8 +5,11 @@
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
 
 tasks:
-  - init: pip install -r requirements.txt
+  - init: >
+    gp sync-done prep &&
+    pip install -r requirements.txt
   - name: Serve MkDocs
+    init: gp sync-wait prep
     command: >
       echo "Starting MkDocs server..." &&
       mkdocs serve --dev-addr 0.0.0.0:8000
