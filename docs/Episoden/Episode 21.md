@@ -1,0 +1,21 @@
+---
+tags: 
+- longrest
+---
+- Die Gruppe erreicht [[Wurx]] spät nachts
+- Aufgrund der Zeit übernachtet die Gruppe in der lokalen Taverne "Zum Grünen Stiefel"
+- Die lokalen Wachen sehen den beschädigten und blutverschmierten Wagen und werden etwas misstrauisch
+- In der Taverne unterhält sich die Gruppe mit der Inhaberin [[Kishan]]  
+- Aus Angst um die Ladung schleppt die Gruppe die restlichen wertvollen Kisten in das gemietete Zimmer
+- Am nächsten Tag erklärt [[John Gramatikus]], dass er nicht weiss, wieso [[Valkia]] seine Vergangenheit kennt. [[Valkia]] weckt in ihm allerdings Erinnerungen an seine Träume/Visionen des Weltuntergangs
+- Die Gruppe trifft [[Gerwin]].
+    - Bezahlt die Gruppe direkt: 40gp/Kiste -> 600gp (auf Gruppe verteilt)
+    - Kisteninhalt ist magisches Metall, welches als Katalysator für Magieinfusionen verwendet wird - und darum ein beliebtes Schmuggelgut ist (magische Infusionen sind von der Magiergilde verboten)
+    - [[Bergelmir]] kauft einen Barren von [[Gerwin]] zurück
+    - [[Gerwin]] verspricht eine Belohnung, wenn weitere zwei Metalllieferungen wohlbehalten bei ihm ankommen
+- Die Gruppe beschliesst die Suche nach dem Gnoll-Lager aufzunehmen.
+- [[Bogart Waldfell]] & [[Osword]] kaufen je ein Pferd, [[John Gramatikus]] einen Wagen
+- Nach der Reise zurück zum Gebiet bei den Drei Zähnen findet die Gruppe einen alten, verlassenen Zwergen-Aussenposten auf dem Gipfel. Dieser Punkt stimmt mit den Zeichnungen von den Gnollkarten überein
+- In den Ruinen finden sich angekettete Hyänen und weitere Gnolle
+- [[Osword]] spürt die Präsenz eines Portals weit unter ihnen
+- *cut zu [[Episode 21]]*
