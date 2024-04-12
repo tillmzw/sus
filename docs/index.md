@@ -5,9 +5,7 @@ tags:
 
 # Schatten über Stranfeste
 
-[![[waldfell and co.jpeg]]](Charaktere/Gruppen/Waldfell %26 Co. Escort Service)
-
-
+![[waldfell and co.jpeg]]
 ## Kampagnen-Episoden
 
 1. [[Episode 1]]
@@ -31,6 +29,7 @@ tags:
 19. [[Episode 19]]
 20. [[Episode 20]]
 21. [[Episode 21]]
+22. [[Episode 22]]
 
 ## Landil
 
