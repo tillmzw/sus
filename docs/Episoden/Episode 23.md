@@ -1,0 +1,11 @@
+- [[Bergelmir]] erkundet noch einen angrenzenden Gang, der jedoch zurückzuführen scheint.
+- Die Gruppe öffnet das grosse Tor und folgt einem langen Gang tiefer in den Berg.
+- In einem grossen Raum findet sich eine Menge von magischen Steinplatten, die bei Betreten zwei Käfige anheben und absenken; in einem Käfig befindet sich eine Mutter mit einem kleinen Kind, im anderen ein Ältester eines Dorfes
+- Nachdem die Gruppe die Logik des Rätsels vermeintlich verstanden hat und die Mutter und ihr Kind befreit, macht [[Osword]] einen Fehler und versenkt den Käfig mit dem Dorfältesten in der Lava. Mutter und Kind fliehen, werden von [[Bergelmir|Bergelspider]] mit einem Netz festgehalten, befreien sich schliesslich mit Hilfe und entkommen.
+- Im folgenden Raum befindet sich ein grosses Portal, mehrere Steinpodeste, einige Kultisten und in der Mitte [[Valkia]] - alles auf Plattformen über einem gewaltigen Lavastrom.
+![[valkia.jpg]]
+- [[Valkia]] verspottet [[John Gramatikus]], weist auf das vervollständigte Portal hin und greift die Gruppe an.
+- Die Gruppe versucht die Kultisten, die das Portal zu öffnen versuchen, einzugrenzen, schafft das jedoch nicht rechtzeitig und das Portal öffnet sich, wobei die letzten Kultisten sterben.
+- Einige Dämonen erscheinen, die Gruppe erwehrt sich heldenhaft; [[Bogart Waldfell]] und [[Osword]] zerstören den Schlussstein des Portals, welches sich daraufhin schliesst.
+- [[Valkia]] in Rage und weniger selbstsicher, versucht mit aller Kraft, die Gruppe zu vernichten, wird aber schliesslich getötet.
+- *cut zu [[Episode 24]]*
