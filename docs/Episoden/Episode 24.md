@@ -5,6 +5,7 @@ tags: afk, longrest
 - [[John Gramatikus]] erscheint abwesend
 - Nachdem [[Valkia]] in Flammen aufgegangen ist, verweilt die Gruppe in der heissen Kammer über der Lava um die Überreste zu untersuchen.
 	- [[Bogart Waldfell]] findet an [[Valkia]]s Überresten ein Stoffstück, welches ausgerollt Zugang zu einer Taschendimension gibt[^1]
+	- Ein gehörnter Schild, zur späteren Verwendung von [[John Gramatikus]]
 	- [[Otis]] findet seinen (von [[Valkia]] verbesserten) Dreizack 
 	- [[Osword]] entnimmt [[Valkia]]s Überresten eine Kralle
 	- [[Bergelmir]] versucht das Buch auf dem zentralen Altar der Kammer zu lesen, und ersucht [[Osword]] um Hilfe, da es auf abyssisch geschrieben ist. [[Osword]] vernichtet die Seiten, die das Öffnen des Portal beschreiben und nimmt das Buch mit da es anscheinend viele Informationen über Dämonen und andere Ebenen enthält.
