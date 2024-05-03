@@ -22,15 +22,34 @@
 
 ### Karawanen-Eskorte 
 
-| Auftraggeber | [[Mederta Steinherz]] | Suche nach Hilfe und Karten für Erkundung der Kanalisation ([[#^gedankenkontrolle\|Gedankenkontrolle]]) |
-| ---- | ---- | ---- |
-| Auftrag | Karawane nach [[Wurx]] eskortiert |  |
-| Belohnung | Karte der Kanalisation? |  |
-| Ereignis | nächtlicher Überfall | [[Episode 18]] |
-| Ende |  |  |
+| Auftraggeber | [[Mederta Steinherz]]                                                                                     | Suche nach Hilfe und Karten für Erkundung der Kanalisation ([[#^gedankenkontrolle\|Gedankenkontrolle]]) |
+| ------------ | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Auftrag      | Karawane nach [[Wurx]] eskortiert                                                                         |                                                                                                         |
+| Belohnung    | Karte der Kanalisation?                                                                                   |                                                                                                         |
+| Ereignis     | nächtlicher Überfall                                                                                      | [[Episode 18]]                                                                                          |
+|              | Gruppe kehrt zurück, tötet [[Valkia]] und zerstört Portal, welche mit dem gestohlenen Metall gebaut wurde | [[Episode 23]]                                                                                          |
+| Ende         |                                                                                                           |                                                                                                         |
+|              |                                                                                                           |                                                                                                         |
 
 ## Offene Quests
 
+### Korruption im Kloster
+
+| Auftraggeber |                                                                                               |                |
+| ------------ | --------------------------------------------------------------------------------------------- | -------------- |
+| Auftrag      | Stoppt die Dämonen-Korruption im [[Kloster Auror]]                                            |                |
+| Belohnung    | ?                                                                                             |                |
+| Ereignis     | Gruppe findet Beweise, dass [[Bischof Walthers]] in Geschäfte mit Dämonen involviert ist      | [[Episode 22]] |
+| Ereignis     | [[Ralf]] sagt, dass er die Korruption ausmerzen will und die Gruppe  dabei unterstützen würde | [[Episode 24]] |
+
+### Dämonen-Abrechnung 
+| Auftraggeber | [[Ralf]]                              |                |
+| ------------ | ------------------------------------- | -------------- |
+| Auftrag      | Reist in den Abyss und tötet Dämonen. | [[Episode 24]] |
+| Belohnung    | ?                                     |                |
+| Ereignis     |                                       |                |
+| Ende         |                                       |                |
+|              |                                       |                |
 ### Dämoneninvasion
 
 | Auftraggeber |  |  |
