@@ -1,5 +1,7 @@
 ---
-tags: afk, longrest
+tags: 
+- afk
+- longrest
 ---
 
 - [[John Gramatikus]] erscheint abwesend
