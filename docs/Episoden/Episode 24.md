@@ -23,7 +23,7 @@ tags: afk, longrest
 - [[Osword]] verspricht zurückzukehren, [[Ralf]] wird in der Zwischenzeit das Portal vorbereiten um in den Abyss zu reisen
 - [[Ralf]] befreit übrige Gefangene, dabei ertönen kurz Schreie
 - Gruppe ruht sich erneut im Kultistenlager aus.
-- [[Bogart Waldfell]] untersucht die Taschendimension und findet grosse Mengen an Geld (rund[^2] 1400 gp sowie Edelsteine im Wert von mindestens 300 gp) und einen [unbeweglichen Stab](https://www.dndbeyond.com/magic-items/4662-immovable-rod)
+- [[Bogart Waldfell]] untersucht die Taschendimension und findet grosse Mengen an Geld (rund[^2] 1400 gp, Diamanten im Wert von 100 gp sowie weitere Edelsteine im Wert von zusätzlichen 200 gp) und einen [unbeweglichen Stab](https://www.dndbeyond.com/magic-items/4662-immovable-rod)
 - *cut zu [[Episode 25]]*
 
 
