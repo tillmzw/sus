@@ -5,7 +5,7 @@ tags:
 ---
 
 - [[John Gramatikus]] erscheint abwesend
-- Nachdem [[Valkia]] in Flammen aufgegangen ist, verweilt die Gruppe in der heissen Kammer über der Lava um die Überreste zu untersuchen.
+- Nachdem [[Valkia]] in Flammen aufgegangen ist, verweilt die Gruppe in der heissen Kammer über der Magma um die Überreste zu untersuchen.
 	- [[Bogart Waldfell]] findet an [[Valkia]]s Überresten ein Stoffstück, welches ausgerollt Zugang zu einer Taschendimension gibt[^1]
 	- Ein gehörnter Schild, zur späteren Verwendung von [[John Gramatikus]]
 	- [[Otis]] findet seinen (von [[Valkia]] verbesserten) Dreizack 
