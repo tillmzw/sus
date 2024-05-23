@@ -11,7 +11,7 @@ tags:
 	- [[Otis]] findet seinen (von [[Valkia]] verbesserten) Dreizack 
 	- [[Osword]] entnimmt [[Valkia]]s Überresten eine Kralle
 	- [[Bergelmir]] versucht das Buch auf dem zentralen Altar der Kammer zu lesen, und ersucht [[Osword]] um Hilfe, da es auf abyssisch geschrieben ist. [[Osword]] vernichtet die Seiten, die das Öffnen des Portal beschreiben und nimmt das Buch mit da es anscheinend viele Informationen über Dämonen und andere Ebenen enthält.
-- Die Gruppe zerlegt das Portal weiter und versenkt die Einzelteile in der Lava.
+- Die Gruppe zerlegt das Portal weiter und versenkt die Einzelteile in der Magma.
 - im grossen Hauptraum trifft die Gruppe einen älteren Mann in einer alten Kluft, den [[Osword]] als [[Ralf]] erkennt
 - In einem Gespräch zwischen [[Ralf]] und [[Osword]]:
 	- [[Ralf]] ist erstaunt, dass [[Osword]] noch lebt und gegen Dämonen kämpft; der Rest der Gruppe aus den Wäldern um [[Fagos]] ist tot oder verschwunden
