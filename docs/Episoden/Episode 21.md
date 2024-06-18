@@ -15,7 +15,7 @@ tags:
     - [[Gerwin]] verspricht eine Belohnung, wenn weitere zwei Metalllieferungen wohlbehalten bei ihm ankommen
 - Die Gruppe beschliesst die Suche nach dem Gnoll-Lager aufzunehmen.
 - [[Bogart Waldfell]] & [[Osword]] kaufen je ein Pferd, [[John Gramatikus]] einen Wagen
-- Nach der Reise zurück zum Gebiet bei den Drei Zähnen findet die Gruppe einen alten, verlassenen Zwergen-Aussenposten auf dem Gipfel. Dieser Punkt stimmt mit den Zeichnungen von den Gnollkarten überein
+- Nach der Reise zurück zum Gebiet bei den Drei Zähnen findet die Gruppe einen alten, [[Verlassener Zwergenaussenposten|verlassenen Zwergenaussenposten]] auf dem Gipfel. Dieser Punkt stimmt mit den Zeichnungen von den Gnollkarten überein
 - In den Ruinen finden sich angekettete Hyänen und weitere Gnolle
 - [[Osword]] spürt die Präsenz eines Portals weit unter ihnen
 - *cut zu [[Episode 21]]*

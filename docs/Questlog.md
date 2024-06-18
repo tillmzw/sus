@@ -13,12 +13,13 @@
 
 ### Geheimes Treffen
 
-| Auftraggeber | [[Erkie Timbers]] | Zufallsbegegnung [[Episode 17]] |
-| ---- | ---- | ---- |
-| Auftrag | Beschattet das geheime Treffen zw. [[Gornir Sturmhammer]] und unbekannten Dritten im königlichen Badehaus |  |
-| Belohnung |  |  |
-| Ereignis | Gruppe informiert [[Erkie Timbers]], dass er selber die Beschattung organisieren soll, da er die besseren Mittel dazu hat | [[Episode 18]] |
-| Ende |  |  |
+| Auftraggeber | [[Erkie Timbers]]                                                                                                         | Zufallsbegegnung [[Episode 17]] |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| Auftrag      | Beschattet das geheime Treffen zw. [[Gornir Sturmhammer]] und unbekannten Dritten im königlichen Badehaus                 |                                 |
+| Belohnung    |                                                                                                                           |                                 |
+| Ereignis     | Gruppe informiert [[Erkie Timbers]], dass er selber die Beschattung organisieren soll, da er die besseren Mittel dazu hat | [[Episode 18]]                  |
+|              | [[Erkie Timbers]] berichtet vom Treffen zw. [[Bogart Waldfell]] und [[Gornir Sturmhammer]] - Gestaltwandler?              | [[Episode 25]]                  |
+|              |                                                                                                                           |                                 |
 
 ### Karawanen-Eskorte 
 

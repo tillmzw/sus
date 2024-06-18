@@ -4,7 +4,7 @@ tags:
 ---
 
 
-- Im Eingangsbereich des zwergischen Aussenposten hört die Gruppe rhythmische Klänge und Chorale auf abyssisch, die das Kommen das "Meisters" [[Yeenoghu]] besingen
+- Im Eingangsbereich des [[Verlassener Zwergenaussenposten|Zwergenaussenposten]] hört die Gruppe rhythmische Klänge und Chorale auf abyssisch, die das Kommen das "Meisters" [[Yeenoghu]] besingen
 - [[Bogart Waldfell]] beschreibt Schriftrolle von [[Zara]]:
  > Yeenoghu wird beschworen, südöstlich von Wurx bei altem Zwergenaussenposten
 - Beim Abstieg durch den verwüsteten Aussenposten passiert die Gruppe 

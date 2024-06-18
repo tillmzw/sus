@@ -1,0 +1,3 @@
+- zw. [[Karak Thal]] und [[Wurx]] im Gebirge
+- von Gnollen und [[Valkia]]s Anhängern besetzt um ein Portal in die Hölle zu öffnen
+- Portal in [[Episode 23]] von der Gruppe zerstört
