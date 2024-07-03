@@ -7,7 +7,7 @@
 - In der nächsten Kammer wird die Gruppe von vier Geistern konfrontiert - der Leibwache von [[Dolgarn|König  Dolgarn]]. [[Osword]] schafft es, diese davon zu überzeugen, dass der passierte Zwerg ([[Gornir Sturmhammer]]) trotz königlichem Blut Unheil über die Zwerge bringen wird, und verspricht den Hammer in der Grabkammer zu belassen. Daraufhin weichen die Geister.
 - Weiter hinten findet sich eine Kammer, die augenscheinlich der Beisetzung diente und in der eine blaue Flamme des ewigen Feuers brennt.
 - Auf dem Weg zum angrenzenden Raum tappt die Gruppe in eine Gasfalle und wird von dieser stark in Mitleidenschaft gezogen.
-- In der Grabkammer schliesslich findet sich [[Dolgarn]] und ein Zauberbrecher zu dessen Schutz. [[Dolgarn]] ist absolut besessen davon, den Hammer aus dem Grab zu nehmen.
-- [[John Gramatikus]] bringt [[Dolgarn]] auf magische Weise dazu, die Loyalität seines Beschützers anzuzweifeln, woraufhin [[Dolgarn]] diesen angreift; nichtsdestotrotz versucht die Gruppe ohne offene Gewalt gegen den zwergischen Thronerben anzuwenden diesen aufzuhalten. 
-- [[Dolgarn]] versucht zu fliehen.
+- In der Grabkammer schliesslich findet sich [[Gornir Sturmhammer|Gornir]] und ein Zauberbrecher zu dessen Schutz. [[Gornir Sturmhammer|Gornir]] ist absolut besessen davon, den Hammer aus dem Grab zu nehmen.
+- [[John Gramatikus]] bringt [[Gornir Sturmhammer|Gornir]] auf magische Weise dazu, die Loyalität seines Beschützers anzuzweifeln, woraufhin [[Gornir Sturmhammer|Gornir]] diesen angreift; nichtsdestotrotz versucht die Gruppe ohne offene Gewalt gegen den zwergischen Thronerben anzuwenden diesen aufzuhalten. 
+- [[Gornir Sturmhammer|Gornir]] versucht zu fliehen.
 - *cut zu [[Episode 27]]*
