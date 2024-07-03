@@ -1,0 +1,13 @@
+- Die Gruppe reist am späteren Vormittag aus [[Karak Thal]] Richtung [[Dolgarn's Grab]] ab
+- Die Gruppe beginnt am späteren Nachmittag den Bergaufstieg und passiert verschiedene Hindernisse und folgt schwachen Spuren. Am frühen Abend erreicht die Gruppe ein Plateau mit einer massiven Steintür, eingefasst von zwergischen Runen.
+- Nachdem die korrekten Runen gemäss der in [[Duven Osto]] erbeuteten Karte mit Blut aktiviert wurden, öffnet sich das massive Tor.
+- Im direkt folgenden Raum steht ein altes ramponiertes Zwergenkonstrukt, ausgerüstet mit zwei massiven Schilden. Beim Versuch zu passieren, aktiviert [[John Gramatikus]] die Verteidigungsmechanismen und ein Kampf bricht aus.
+- Die Konstrukte haben wenig gegen [[Bergelmir]]s Ziegen und [[Bogart Waldfell]]s Feuerball entgegenzusetzen. 
+- Im folgenden Gang erkennt [[Osword]] meisterlich versteckte Fallen und ermöglicht so der Gruppe eine unbeschadete Passage.
+- In der nächsten Kammer wird die Gruppe von vier Geistern konfrontiert - der Leibwache von [[Dolgarn|König  Dolgarn]]. [[Osword]] schafft es, diese davon zu überzeugen, dass der passierte Zwerg ([[Gornir Sturmhammer]]) trotz königlichem Blut Unheil über die Zwerge bringen wird, und verspricht den Hammer in der Grabkammer zu belassen. Daraufhin weichen die Geister.
+- Weiter hinten findet sich eine Kammer, die augenscheinlich der Beisetzung diente und in der eine blaue Flamme des ewigen Feuers brennt.
+- Auf dem Weg zum angrenzenden Raum tappt die Gruppe in eine Gasfalle und wird von dieser stark in Mitleidenschaft gezogen.
+- In der Grabkammer schliesslich findet sich [[Dolgarn]] und ein Zauberbrecher zu dessen Schutz. [[Dolgarn]] ist absolut besessen davon, den Hammer aus dem Grab zu nehmen.
+- [[John Gramatikus]] bringt [[Dolgarn]] auf magische Weise dazu, die Loyalität seines Beschützers anzuzweifeln, woraufhin [[Dolgarn]] diesen angreift; nichtsdestotrotz versucht die Gruppe ohne offene Gewalt gegen den zwergischen Thronerben anzuwenden diesen aufzuhalten. 
+- [[Dolgarn]] versucht zu fliehen.
+- *cut zu [[Episode 27]]*
