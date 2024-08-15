@@ -6,6 +6,6 @@
 - In einer riesigen Hölle, bedeckt von Spinnenweben, angekommen, erscheint [[Osurna]] und will uns zu [[Vugan]] führen.
 - [[Otis]] schafft es schlussendlich, [[Osurna]] zu enthaupten. Die Gruppe wird danach noch von Gehirnwesen bzw. Intellektverschlingern angegriffen.
 - Danach findet die Gruppe ein paar eingespinnte Leichen von Halblingen und Zwergen. Einer der Halblinge - vermutlich [[Horbul]] - trägt Reste einer Karte auf sich und einen SIegelring, welchen [[John Gramatikus]] mitnimmt.
-- Auf der Leiche von [[Osurna]] findet die Gruppe einen Spinnenring, ähnlich wie derjenige von [[Bergelmir]].
+- Auf der Leiche von [[Osurna]] findet die Gruppe einen Spinnenring (-> [[John Gramatikus]]), ähnlich wie derjenige von [[Bergelmir]].
 - Weiter hinten in der Hölle befindet sich ein grosses Loch, das weiter in den Berg herabführt...
 - *cut zu [[Episode 29]]*
