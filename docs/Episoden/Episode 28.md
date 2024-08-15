@@ -1,0 +1,11 @@
+- Die Gruppe befindet sich auf dem Weg zum angeblichen Chef-Ingenieur [[Grum]]; dessen Büro wird bewacht, [[Grum]] selber ist abwesend.
+- Die Gruppe spricht mit der Wache und schaut sich in [[Grum]]'s Büro um, die anderen 2 begleitenden Wachen kehren an ihre Posten zurück. Die Wache scheint überrascht, dass der anwesende [[Bogart Waldfell]] nichts von den Vorkommnissen weiss - vermutlich weil er zuvor nur mit dem Impersonator von [[Bogart Waldfell|Bogart]] gesprochen hat.
+- In der Kanalisation werden Halblinge gesucht, die des Sabotierens beschuldigt werden - vermutlich die Halblinge, die die Karte der Kanalisation ([[Episode 25]]) angefertigt haben, u.A. [[Horbul]].
+- Diese Halblinge wurden gefangen genommen und zu [[Osurna]] gebracht.
+- Die Wache ist überrascht, dass wir nichts von [[Osurna]] wissen und schickt uns zu ihr und beschreibt den Weg Richtung Osten, tiefer in auf der Karte nicht verzeichnete Gebiete. Er scheint verängstigt oder mindestens sehr respektvoll ihr gegenüber zu sein. 
+- In einer riesigen Hölle, bedeckt von Spinnenweben, angekommen, erscheint [[Osurna]] und will uns zu [[Vugan]] führen.
+- [[Otis]] schafft es schlussendlich, [[Osurna]] zu enthaupten. Die Gruppe wird danach noch von Gehirnwesen bzw. Intellektverschlingern angegriffen.
+- Danach findet die Gruppe ein paar eingespinnte Leichen von Halblingen und Zwergen. Einer der Halblinge - vermutlich [[Horbul]] - trägt Reste einer Karte auf sich und einen SIegelring, welchen [[John Gramatikus]] mitnimmt.
+- Auf der Leiche von [[Osurna]] findet die Gruppe einen Spinnenring, ähnlich wie derjenige von [[Bergelmir]].
+- Weiter hinten in der Hölle befindet sich ein grosses Loch, das weiter in den Berg herabführt...
+- *cut zu [[Episode 29]]*

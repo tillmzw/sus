@@ -35,6 +35,7 @@ tags:
 25. [[Episode 25]]
 26. [[Episode 26]]
 27. [[Episode 27]]
+28. [[Episode 28]]
 
 ## Landil
 
