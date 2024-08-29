@@ -6,6 +6,6 @@
 - Weiter dem Gang entlang wird die Gruppe wie zuvor telepathisch angekündigt von drei Zwergen abgeholt. [[Bergelmir]] spinnt zwei davon ein, dem dritten folgen sie entlang einem Gang in eine Höhle mit einem grossen, künstlich errichteten Wasserbecken.
 - In diesem Becken findet sich angeblich ein Haustier, ein gigantischer Oktopus.
 - Im angrenzenden Raum finden sich schliesslich eine Reihe von Zwergen, welche Spalier stehen und den Weg freigeben zu einem kürzlich errichteten Thron am anderen Ende des Raums.
-- Auf dem Thron findet sich ein Gedankenschinder, der sich als [[Vugan]] zu erkennen gibt - daneben steht [[Gornir SturmhammerGornir]]s Zauberbrecher.
+- Auf dem Thron findet sich ein Gedankenschinder, der sich als [[Vugan]] zu erkennen gibt - daneben steht [[Gornir Sturmhammer|Gornir]]s Zauberbrecher.
 - Die Gruppe eröffnet den Kampf gegen [[Vugan]] und seine Lakaien, wobei in Kürze alle Zwerge sterben; [[Vugan]] und der Zauberbrecher versuchen zu fliehen - und hinter dem Thron schält sich eine grosse, fliegende, einäugige Kreatur aus den Schatten...
-- *cut zu [[Episode 30]]*c
+- *cut zu [[Episode 30]]*
