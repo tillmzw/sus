@@ -1,3 +1,4 @@
-- symbolisiert Licht und Hoffnung
+- symbolisiert angeblich für seine Jünger Licht und Hoffnung
 - versprach den Dunkelelfen Rache an den Elfen und führte sie darum zum [[Schattenbaum]]
 - scheint telepathische Verbindung zu Lebewesen in der Kanalisation unter [[Karak Thal]] zu haben
+- stellt sich in [[Episode 29]] definitiv als Gedankenschinder heraus

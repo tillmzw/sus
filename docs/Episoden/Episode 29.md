@@ -1,0 +1,11 @@
+- Die Gruppe steigt entlang einem Seil in das Loch herab und findet Überreste eines Krans, der vermuten lässt, dass dies früher eine Mine war
+- Sobald der vorangegangene [[John Gramatikus]] unten ankommt, wird die Gruppe von mehreren Grellen überfallen. Diese beharken auch die noch kletternden Gruppenmitglieder.
+- Die Grelle versuchen [[John Gramatikus]] tiefer in die Höhle zu verschleppen, scheitern schlussendlich jedoch; zwei der drei Grelle werden erschlagen, der letzte verschwindet in den weiterenführenden Minenstollen.
+- Beim vorsichtigen Vorantasten in den Stollen vernimmt die Gruppe in ihren Köpfen eine unnatürliche Eingebung, die sich für die Hilfe beim Zurückholen von [[Dolgarn's Grab|Dolgarns Hammer]] bedankt, der Ursprung dieser Eingebung legt aber auch nahe, dass die Gruppe in [[Duven Osto]] diese Pläne zuerst durchkreuzt hatten.  Es wird ebenfalls erklärt, dass nicht [[Gornir Sturmhammer]] direkt beeinflusst wurde, sondern seine Leibgarde, der Zauberbrecher/Spellbreaker manipuliert und kontrolliert wird.
+- Die Gruppe vermutet den illustren [[Vugan]] hinter der Eingebung.
+- Weiter dem Gang entlang wird die Gruppe wie zuvor telepathisch angekündigt von drei Zwergen abgeholt. [[Bergelmir]] spinnt zwei davon ein, dem dritten folgen sie entlang einem Gang in eine Höhle mit einem grossen, künstlich errichteten Wasserbecken.
+- In diesem Becken findet sich angeblich ein Haustier, ein gigantischer Oktopus.
+- Im angrenzenden Raum finden sich schliesslich eine Reihe von Zwergen, welche Spalier stehen und den Weg freigeben zu einem kürzlich errichteten Thron am anderen Ende des Raums.
+- Auf dem Thron findet sich ein Gedankenschinder, der sich als [[Vugan]] zu erkennen gibt - daneben steht [[Gornir SturmhammerGornir]]s Zauberbrecher.
+- Die Gruppe eröffnet den Kampf gegen [[Vugan]] und seine Lakaien, wobei in Kürze alle Zwerge sterben; [[Vugan]] und der Zauberbrecher versuchen zu fliehen - und hinter dem Thron schält sich eine grosse, fliegende, einäugige Kreatur aus den Schatten...
+- *cut zu [[Episode 30]]*c
